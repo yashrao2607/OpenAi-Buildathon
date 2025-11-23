@@ -1,0 +1,8 @@
+pathway
+fastapi
+uvicorn[standard]
+requests
+aiohttp
+openai
+numpy
+
